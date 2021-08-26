@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="negro_credimio">#17110d</color>
+    <color name="rosa_credimio">#fcb6b2</color>
+    <color name="rojo_credimio">#f40404</color>
+    <color name="rojo_claro_credimio">#f62114</color>
+    <color name="casi_blanco_credimio">#f3f8f9</color>
+</resources>

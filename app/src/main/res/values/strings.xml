@@ -1,0 +1,61 @@
+<resources>
+    <string name="app_name">AppCredimio</string>
+    <string name="open_drawer">Abrir</string>
+    <string name="close_drawer">Cerrar</string>
+    <string name="descripcion_foto">credimio</string>
+
+    <string name="titulo_header">Llegamos a los principales almacenes del pais</string>
+    <string name="subtitulo_header">Lo mejor en crèdito</string>
+
+    <string name="menu_home">Empresa</string>
+    <string name="menu_gallery">Contactanos</string>
+    <string name="menu_slideshow">Acceso clientes</string>
+    <string name="direccion">	Carrera 48 No. 12 Sur 148
+        Torre 2 Oficina 207. Centro Profesional El Crucero</string>
+    <string name="correo">gerencia@credimiosas.com</string>
+    <string name="telefono"> (57+4) 4485754.  573165219460</string>
+    <string name="titulo_contacto">Contactanos</string>
+    <string name="pagina_web">https://credimiosas.com/</string>
+    <string name="descripcion_correo">Correo</string>
+    <string name="descripcion_telefono">telefono</string>
+    <string name="descripcion_web">Pagina web</string>
+    <string name="descripcion_direccion">Direccion</string>
+    <string name="titulo_empresa">Quiénes Somos</string>
+
+    <string name="contenido_quienessomos">CREDIMIO S.A.S es una empresa especializada en el estudio, otorgamiento y administración de créditos de consumo y bajo monto, para ventas por el sistema de cuenta corriente en establecimientos comerciales, desde hace más de 12 años.</string>
+    <string name="contenido_quienessomos2">Nuestra empresa pretende satisfacer las necesidades de nuestros usuarios con buen servicio, brindando facilidades de pago, aumentando su capacidad de compra y garantizando el cumplimiento a nuestros afiliados.</string>
+    <string name="contenido_quienessomos3">Credimio S.A.S atiende afiliados en cualquier municipio del país, buscando tener una cobertura amplia con calidad de servicio.</string>
+    <string name="contenido_quienessomos4">Nuestro Crédito de Consumo permite adquirir cualquier producto y /o servicio, en un tiempo máximo de 2 minutos. Lo que garantiza una compra inmediata que fideliza los clientes.</string>
+
+    <string name="titulo_m">Misión</string>
+    <string name="titulo_v">Visión</string>
+    <string name="titulo_va">Valores</string>
+    <string name="titulo_o">Objetivos</string>
+    <string name="contenido_m">Construir relaciones de negocio a largo plazo con nuestros clientes, para ayudar a que sus almacenes crezcan, afianzando el proceso de compras a crédito, propiciando el crecimiento de la economía en el sector comercial, aplicando principios de ética, transparencia y calidad en el servicio.
+
+ </string>
+    <string name="contenido_v">Ser el mejor aliado comercial, para que sus negocios alcancen las oportunidades ilimitadas ,que ofrece el comercio, combinando la tecnología y un excelente capital humano, brindando excelente respuesta a las exigencias de nuestros clientes y usuarios.</string>
+    <string name="contenido_va">CREDIMIO S.A.S manejará las relaciones con sus clientes fundamentados en el respeto y la rectitud en todos sus actos y operaciones.
+
+Nuestros Valores son:</string>
+    <string name="contenido_va2">Respeto
+Honestidad
+Rectitud
+Solidaridad
+Sinceridad</string>
+    <string name="contenido_objetivos">CREDIMIO S.A.S estará siempre tomando las medidas y previsiones necesarias para honrar, por encima de todo la confianza depositada en nosotros.
+
+Buscaremos siempre responder a las necesidades y expectativas de servicio de nuestros usuarios.
+
+En todos nuestros actos estarán presentes y reflejados la rectitud, la integridad y el manejo transparente de todos nuestros procesos.
+
+Mantener y fidelizar nuestros afiliados y usuarios.
+
+Ampliar la cobertura de almacenes afiliados en cualquier lugar del país.
+
+Nos diferenciarnos por el cumplimiento a nuestros afiliados.</string>
+
+
+
+
+</resources>

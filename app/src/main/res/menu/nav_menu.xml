@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_home"
+        android:title="Inicio"
+        android:icon="@drawable/ic_baseline_house_siding_24"/>
+    <item android:id="@+id/nav_clientes"
+        android:title="Clientes"
+        android:icon="@drawable/ic_baseline_perm_identity_24"/>
+    <item android:id="@+id/nav_contacto"
+        android:title="Contactanos"
+        android:icon="@drawable/ic_baseline_local_post_office_24"/>
+</menu>
